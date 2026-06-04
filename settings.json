@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "naturalism-lW2k.aternos.me:62089",
+    "ip": "naturalism-lW2k.aternos.me",
     "port": 62089,
     "version": "26.1.2",
     "try-creative": false
